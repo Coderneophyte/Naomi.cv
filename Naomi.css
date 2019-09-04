@@ -1,0 +1,75 @@
+ body{
+  
+margin: 3em
+
+ }
+ 
+header{
+  
+     text-align: center
+ }
+
+h3{
+    border-style: solid ;
+  
+}
+
+div  {
+
+    text-align: center
+}
+
+h1{
+
+    font-family: sans-serif
+}
+
+ p,blockquote{
+     font-size: 1em;
+     line-height: 1.6em;
+     line-break: auto;
+
+ }
+.thelist{
+
+    text-align: center;
+    list-style-position: inside
+}
+
+ol{
+    list-style-type: none;
+    margin: 0 ;
+    padding: 0;
+    text-align: justify
+}
+
+div {
+    list-style-type: none;
+    margin: 0; 
+    padding: 0 ;
+    border-color: 
+
+}
+
+    .alignleft {
+        float: left;
+        text-align:center;
+        width:33.33333%;
+    }
+    .alignleft {
+        float: left;
+        text-align:center;
+        width:33.33333%;
+    }
+    .aligncenter {
+        float: left;
+        text-align:center;
+        width:33.33333%;
+    }
+    
+    .aligncenter {
+        float: left;
+        text-align:center;
+        width:33.33333%;
+    }
+    
